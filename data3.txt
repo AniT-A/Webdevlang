@@ -1,0 +1,19 @@
+<h2>JavaScript</h2>
+
+<h3>Overview:</h3>
+<ul>
+<li>A programming language commonly used in web development to create interactive effects within web browsers</li>
+<li>Has APIs for working with text, dates, regular expressions, standard data structures, and DOM</li>
+<li>Dynamic typing</li>
+<li>Object-oriented</li>
+<li>Asynchronous programming</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Web development</li>
+<li>Mobile app development</li>
+<li>Game development</li>
+<li>Server-side development with Node.js</li>
+</ul>

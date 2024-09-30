@@ -1,0 +1,19 @@
+<h2>HTML (HyperText Markup Language)</h2>
+
+<h3>Overview:</h3>
+
+<ul>
+<li>The standard markup language for creating web pages</li>
+<li>Defines the content and structure of web page</li>
+<li>Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages</li>
+<li>Consists of a series of elements</li>
+<li>Is often assisted by technologies such as CSS and JavaScript</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Structuring web pages</li>
+<li>Creating forms</li>
+<li>Embedding images and videos</li>
+</ul>

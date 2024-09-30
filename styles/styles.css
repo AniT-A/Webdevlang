@@ -1,0 +1,139 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,900&display=swap');*/
+
+body {
+    font-family: 'Tahoma', sans-serif;
+    background-color: #230c7e;
+    padding: 2em;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    min-width: 530px;
+    min-height: 20em;
+    margin: 0 auto;
+    background: linear-gradient(135deg, rgba(133, 118, 195, 0.5) 0%, rgba(45, 170, 228, 1) 100%);
+    padding: 4em 4em 2em 4em;
+    border-radius: 1em;
+}
+
+h1 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 2em;
+    color: #230c7e;
+    text-shadow: 0.1em 0.2em 0.2em #8576c3;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+    line-height: 1em;
+}
+
+.buttons {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.buttons button {
+    padding: 1em 2em;
+    border: none;
+    background-color: #230c7e;
+    color: #8576c3;
+    cursor: pointer;
+    border-radius: 0.5em;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.buttons button:hover {
+    background-color: #2daae4;
+}
+
+.output {
+    display: flex;
+    flex-direction: row;
+    min-height: 10em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #230c7e;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    width: 60em;
+    justify-content: left;
+    font-size: 1em;
+    line-height: 2;
+}
+
+.image-container {
+    display: flex;
+    width: 20em;
+    align-items: center;
+    justify-content: right;
+}
+
+.image-container img {
+    width: 10em;
+    height: auto;
+}
+
+footer {
+    display: flex;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    vertical-align: bottom;
+    justify-content: center;
+    font-size: 0.7em;
+    text-align: center;
+    color: #230c7e;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 0.5em;
+        margin: 0;
+    }
+    .container {
+        padding: 1em;
+        width: auto;
+        min-width: 320px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    h1 {
+        align-self: center;
+        font-size: 1.5em;
+    }
+    .buttons {
+        gap: 0.5em;
+        justify-content: center;
+    }
+    .buttons button {
+        padding: 0.5em 1em;
+        font-size: 0.7em;
+    }
+    .text-container {
+        width: 50em;
+        font-size: 0.6em;
+    }
+    .image-container {
+        width: 10em;
+    }
+    .image-container img {
+        width: 5em;
+    }
+    footer {
+        font-size: 0.5em;
+    }
+}
+

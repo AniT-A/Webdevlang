@@ -1,0 +1,19 @@
+<h2>CSS (Cascading Style Sheets)</h2>
+
+<h3>Overview:</h3>
+
+<ul>
+<li>A stylesheet language used to describe the presentation and styling of a document written in HTML or XML (including XML dialects like SVG, MathML, or XHTML)</li>
+<li>Separates the content of a web page from its visual presentation</li>
+<li>Defines how HTML elements are to be displayed on screen, paper, or in other media</li>
+<li>Consists of rules that target HTML elements and apply styling properties such as colors, fonts, layout, and spacing</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Styling web pages: Altering font, color, size, spacing, and layout</li>
+<li>Creating responsive designs: Adapting content for different devices</li>
+<li>Adding animations and decorative features</li>
+<li>Customizing the appearance of user interfaces</li>
+</ul>

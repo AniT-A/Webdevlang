@@ -1,0 +1,20 @@
+<h2>PHP (Hypertext Preprocessor)</h2>
+
+<h3>Overview:</h3>
+
+<ul>
+<li>A server-side scripting language designed for web development</li>
+<li>Embedded within HTML code</li>
+<li>Executes on the web server before the page is sent to the user’s browser</li>
+<li>Widely used for dynamic web pages and web applications</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Generating dynamic content (e.g., displaying database records, user input processing)</li>
+<li>Handling forms and user input</li>
+<li>Creating session management and authentication systems</li>
+<li>Interacting with databases (e.g., MySQL, PostgreSQL)</li>
+<li>Building e-commerce platforms and content management systems (CMS)</li>
+</ul>

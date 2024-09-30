@@ -1,0 +1,21 @@
+<h2>TypeScript</h2>
+
+<h3>Overview:</h3>
+
+<ul>
+<li>TypeScript is an open-source, object-oriented language developed and maintained by Microsoft</li>
+<li>Extends JavaScript by adding static typing, classes, and modules</li>
+<li>Compiles to plain JavaScript, making it compatible with existing JavaScript codebases</li>
+<li>Helps catch type errors during development</li>
+<li>Enhances code maintainability, scalability, and developer productivity</li>
+<li>Designed for large-scale applications and complex systems</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Front-end Development: Building web applications and user interfaces with frameworks like Angular and React</li>
+<li>Back-end Development: Server-side development with tools like Node.js</li>
+<li>Desktop and Mobile Applications: Building desktop and mobile applications with Electron and React Native</li>
+<li>Tooling and Libraries: Many popular libraries and frameworks (e.g., React, Angular, Express) have TypeScript support</li>
+</ul>

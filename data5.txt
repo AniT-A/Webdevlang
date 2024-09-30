@@ -1,0 +1,20 @@
+<h2>Python</h2>
+
+<h3>Overview:</h3>
+
+<ul>
+<li>A high-level programming language known for its readability and versatility</li>
+<li>Easy to read syntax</li>
+<li>Extensive libraries</li>
+<li>Dynamic typing</li>
+<li>Garbage collection</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Web development</li>
+<li>Data analysis</li>
+<li>Machine learning</li>
+<li>Automation scripts</li>
+</ul>

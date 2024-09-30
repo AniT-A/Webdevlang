@@ -1,0 +1,20 @@
+<h2>Ruby</h2>
+
+<h3>Overview:</h3>
+
+<ul>
+<li>A dynamic, object-oriented programming language with a focus on simplicity and productivity</li>
+<li>Designed for programmer happiness with an emphasis on human-readable code</li>
+<li>Known for its elegant syntax and expressiveness</li>
+<li>Strong community support and a vast ecosystem of libraries (known as gems)</li>
+<li>Popularized by the Ruby on Rails web application framework</li>
+</ul>
+
+<h3>Common Uses:</h3>
+
+<ul>
+<li>Web development (especially with Ruby on Rails)</li>
+<li>Scripting</li>
+<li>Prototyping</li>
+<li>Automation tasks</li>
+</ul>
