@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /images/
+Disallow: /data1.txt
+Disallow: /data2.txt
+Disallow: /data3.txt
+Disallow: /data4.txt
+Disallow: /data5.txt
+Disallow: /data6.txt
+Disallow: /data7.txt
+
+Crawl-delay: 10

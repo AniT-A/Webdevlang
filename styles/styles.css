@@ -1,5 +1,3 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,900&display=swap');*/
-
 body {
     font-family: 'Tahoma', sans-serif;
     background-color: #230c7e;
@@ -20,7 +18,6 @@ body {
 nav {
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 h1 {
@@ -28,6 +25,7 @@ h1 {
     font-size: 2em;
     color: #230c7e;
     text-shadow: 0.1em 0.2em 0.2em #8576c3;
+    text-align: center;
     margin-top: 0;
     margin-bottom: 1em;
 }
@@ -145,4 +143,3 @@ footer {
         font-size: 0.5em;
     }
 }
-
