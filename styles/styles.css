@@ -4,17 +4,6 @@ body {
     padding: 2em;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-    width: auto;
-    min-height: 20em;
-    margin: 0 auto;
-    background: linear-gradient(135deg, rgba(133, 118, 195, 0.5) 0%, rgba(45, 170, 228, 1) 100%);
-    padding: 4em 4em 2em 4em;
-    border-radius: 1em;
-}
-
 nav {
     display: flex;
     flex-direction: column;
@@ -37,6 +26,21 @@ h2 {
 h3 {
     font-size: 1em;
     line-height: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    min-height: 20em;
+    margin: 0 auto;
+    background: linear-gradient(135deg, rgba(133, 118, 195, 0.5) 0%, rgba(45, 170, 228, 1) 100%);
+    padding: 4em 4em 2em 4em;
+    border-radius: 1em;
 }
 
 .buttons {
